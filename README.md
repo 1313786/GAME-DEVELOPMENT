@@ -1,5 +1,9 @@
 ## EX 1: DDA ALGORITHM 
 
+NAME : IRFAN KHAN.N
+
+REG NO: 212224230097
+
 **Aim :**
 
 To  implement the DDA algorithm to draw a line using a c coding
